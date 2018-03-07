@@ -1,0 +1,31 @@
+{
+  "name": "css-tutorial",
+  "version": "0.0.1",
+  "description": "CSS 学习笔记",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "docsify serve ./ --port 5080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipengzhou/css-tutorial.git"
+  },
+  "keywords": [
+    "css",
+    "tutorial",
+    "css tutorial"
+  ],
+  "author": "lipengzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipengzhou/css-tutorial/issues"
+  },
+  "homepage": "https://github.com/lipengzhou/css-tutorial#readme"
+}
