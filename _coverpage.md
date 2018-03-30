@@ -1,6 +1,6 @@
 # CSS 学习笔记
 
-> 李鹏周 <span style="font-size: 16px;">@<a href="http://www.itcast.cn/" target="blank">传智播客</a></span>
+> 李鹏周
 
 - 联系：lpzmail@163.com
 
